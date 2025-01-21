@@ -1,79 +1,59 @@
 {
-   links: [
-   {
-     id: 1,
-     projectid: 1,
-     name: "ForWedding",
-     description:
-       "ForWedding is an Android app developed to book a venue/hall for events like wedding, birthday party, corporate event, or any other function/ event. The app has razorpay payment gateway integrated in it for seamless checkout.",
-     link: "",
-     task: [
-       {
-         id: 1,
-         subtask:
-           "The user is seen comparing two halls and book a hall completely online by making online payment!",
-         url: "https://youtu.be/Ii8gcUPgYfQ",
-       },
-     ],
-     isDifferentProject: true,
-   },
-
-
-
-
-   {
-     id: 2,
-     projectid: 2,
-     name: "ForWedding - Partners",
-     description:
-       "ForWedding - Partners is a supplementary app for owners to take hall/venue booking offline for wedding, birthday party, or any other functions/ event. The app interface is intentionally kept simple for owners to use. Firebase storage is used as backend to store and retrieve the data.",
-     link: "",
-     task: [
-       {
-         id: 1,
-         subtask:
-           "The venue owner is seen taking offline booking from a customer at venue!",
-         url: "https://youtu.be/5UlmRDhQLtM",
-       },
-
-
-       {
-         id: 2,
-         subtask:
-           "The venue owner is seen taking part-payment to book a venue for a customer at the venue! The owner can see all the pending payments right at home screen.",
-         url: "https://youtu.be/sfoLen9Em18",
-       },
-
-
-       {
-         id: 3,
-         subtask:
-           "The venue owner is seen uploading photographs of decorations of their own venue.",
-         url: "https://youtu.be/JM8h_KCsn0M",
-       },
-     ],
-     isDifferentProject: true,
-   },
-
-
-
-
-   {
-     id: 3,
-     projectid: 3,
-     name: "Loaccurate - Your location assistant",
-     description:
-       "Loaccurate is an Android app to maintain an address directory for the purpose of solving the problem of last-mile delivery. The app allows users to manually add pinpoints to their location from the nearest landmark once to the server. Whenever they placed an order online or booked a cab the location could be shared. Adding multiple locations was possible like home, office, stc and avoid the hassle of guiding location to delivery boy on call.",
-     link: "",
-     task: [
-       {
-         id: 1,
-         subtask:
-           "The user is seen adding a new location and sharing it to delivery executives and also to friends or family members in different interfaces. Later, delivery executive clicked to start navigation.",
-         url: "https://youtu.be/5-37Ve5rALs",
-       },
-     ],
-     isDifferentProject: true,
-   },
- ]
+  "links": [
+    {
+      "id": 1,
+      "projectid": 1,
+      "name": "ForWedding",
+      "description": "ForWedding is an Android app developed to book a venue/hall for events like wedding, birthday party, corporate event, or any other function/event. The app has razorpay payment gateway integrated in it for seamless checkout.",
+      "link": "",
+      "task": [
+        {
+          "id": 1,
+          "subtask": "The user is seen comparing two halls and book a hall completely online by making online payment!",
+          "url": "https://youtu.be/Ii8gcUPgYfQ"
+        }
+      ],
+      "isDifferentProject": true
+    },
+    {
+      "id": 2,
+      "projectid": 2,
+      "name": "ForWedding - Partners",
+      "description": "ForWedding - Partners is a supplementary app for owners to take hall/venue booking offline for wedding, birthday party, or any other functions/event. The app interface is intentionally kept simple for owners to use. Firebase storage is used as backend to store and retrieve the data.",
+      "link": "",
+      "task": [
+        {
+          "id": 1,
+          "subtask": "The venue owner is seen taking offline booking from a customer at venue!",
+          "url": "https://youtu.be/5UlmRDhQLtM"
+        },
+        {
+          "id": 2,
+          "subtask": "The venue owner is seen taking part-payment to book a venue for a customer at the venue! The owner can see all the pending payments right at home screen.",
+          "url": "https://youtu.be/sfoLen9Em18"
+        },
+        {
+          "id": 3,
+          "subtask": "The venue owner is seen uploading photographs of decorations of their own venue.",
+          "url": "https://youtu.be/JM8h_KCsn0M"
+        }
+      ],
+      "isDifferentProject": true
+    },
+    {
+      "id": 3,
+      "projectid": 3,
+      "name": "Loaccurate - Your location assistant",
+      "description": "Loaccurate is an Android app to maintain an address directory for the purpose of solving the problem of last-mile delivery. The app allows users to manually add pinpoints to their location from the nearest landmark once to the server. Whenever they placed an order online or booked a cab the location could be shared. Adding multiple locations was possible like home, office, etc and avoid the hassle of guiding location to delivery boy on call.",
+      "link": "",
+      "task": [
+        {
+          "id": 1,
+          "subtask": "The user is seen adding a new location and sharing it to delivery executives and also to friends or family members in different interfaces. Later, delivery executive clicked to start navigation.",
+          "url": "https://youtu.be/5-37Ve5rALs"
+        }
+      ],
+      "isDifferentProject": true
     }
+  ]
+}
